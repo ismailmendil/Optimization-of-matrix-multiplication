@@ -1,1 +1,1 @@
-This project aims to implements state-of-art optimization of matrix multiplication. The optimization includes both algrithmic  and technical optimization.
+This project aims to implement state-of-art optimization algorithms of matrix multiplication. The optimization includes both algrithmic  and technical optimization.
